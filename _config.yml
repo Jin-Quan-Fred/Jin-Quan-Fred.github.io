@@ -5,4 +5,7 @@ theme: just-the-docs
 url: https://jin-quan-fred.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  哔哩哔哩: https://space.bilibili.com/1728396266
+
+favicon_ico: "/assets/images/favicon.ico"
+
