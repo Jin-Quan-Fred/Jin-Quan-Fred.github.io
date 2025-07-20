@@ -9,3 +9,9 @@ aux_links:
 
 favicon_ico: "/assets/images/favicon.ico"
 
+defaults:
+  - scope:
+      path: "posts" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
