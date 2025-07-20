@@ -16,4 +16,4 @@ defaults:
     values:
       layout: "default"
 
-colorscheme: gold
+color_scheme: gold
